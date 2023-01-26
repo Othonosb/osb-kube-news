@@ -50,7 +50,7 @@ apiVersion: apps/v1
 kind: Deployment
 
 metadata:
-  name: web
+  name:  web
 spec: 
   replicas: 4
   selector:
